@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-texify2'
+
+[params]
+title="Summer Fellowship 2024"
+description = "Reflections on the summer fellowship 2024"
+images = ['images/logo.jpg']
+footnote = """witness and be witnessed"""
+keywords = ["fellowship", "summmer", "paracademic", "blog"]
+customCSS = []
+customJS = []
+dateFormat = "January 2, 2006"
+emphasisWithDots = true
+since = "2024"
+toc = false
+showWordCount = true
+showReadingTime = true
+rootFontSize = "120%"
+math = true
+enableDuckDuckGoSearchBox = true
+numberedSubtitles = false

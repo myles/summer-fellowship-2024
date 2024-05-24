@@ -7,4 +7,13 @@
   color: #7547DB;
   text-decoration: underline;
 }
+.subtitle {
+  font-size: 1rem;
+  font-weight: normal;
+  color: gray;
+  text-align: center;
+}
 
+.subtitle time {
+  margin-left: 0;
+}

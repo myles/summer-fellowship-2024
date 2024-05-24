@@ -14,13 +14,23 @@ customJS = []
 dateFormat = "January 2, 2006"
 emphasisWithDots = true
 since = "2024"
-toc = false
-showWordCount = true
-showReadingTime = true
+toc = true
+showWordCount = false
+showReadingTime = false
 rootFontSize = "120%"
 math = true
 enableDuckDuckGoSearchBox = false
 numberedSubtitles = false
+
+[params.sharingButtons]
+facebook = false
+twitter = false
+email = false
+linkedin = false
+reddit = false
+whatsapp = false
+hackernews = false
+telegram = false
 
 [[menu.main]]
 identifier = "post"

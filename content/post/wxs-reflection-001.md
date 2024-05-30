@@ -29,3 +29,7 @@ How might we understand what this is?
 > In order to understand what kinds of behaviours classrooms promote, one most become accustomed to observing what, in fact, students actually *do* in them. What students do in the classroom is what they learn (as Dewey would say) and what they learn to do is the classroom's message (as McLuhan would say)
 
 What will researchers in our fellowship program *do*? That is what they are learning. 
+
+***
+
+*Xavier's research reflections. [Next reflection]({{<ref "wxs-reflection-002.md">}}).*

@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Summer Fellowship 2024'
 theme = 'hugo-texify2'

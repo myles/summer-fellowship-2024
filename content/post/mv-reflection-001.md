@@ -41,4 +41,6 @@ What am I going to do?
 3) Writing: this reflection is hopefully the start of a regular writing practice.
 
 
+**Peer review**: https://github.com/1rglabs/summer-fellowship-2024/pull/5
+
 [^1]: I can't say for sure how many, and as I'm thinking more about my [relationship with chronos](/posts/xs-reflection-001/) today, I am not going to bother to calculate it.

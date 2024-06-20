@@ -38,7 +38,7 @@ I'm curious about what made Hewlett-Packard so great in Woz's eyes and why. He p
 
 I want to ask other than the practicalities of corporate structures that make people feel ownership, what aspects of workplace culture make people feel fulfilled? I ask this question holding the truth that culture stuff can be used as a distraction while the real material gains are taken away - you don't get to keep any equity but boy is the culture great! Holding that critical lens I think the next thing I should read should be about fulfilling workplace cultures.
 
-
+**Peer Review**: [https://github.com/1rglabs/summer-fellowship-2024/pull/5](https://github.com/1rglabs/summer-fellowship-2024/pull/5)
 
 [^1]: I really appreciate that this is called a "sleazy trick"
 

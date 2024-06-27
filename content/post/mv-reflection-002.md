@@ -12,7 +12,7 @@ The book itself consists of a series of interviews with founders about the early
 
 Wozniak's interview struck me - it hits all the notes of his career that entered my hacker consciousness - building computers on paper as a kid, the genius of the apple II, [that trick I don't fully understand with color](https://spectrum.ieee.org/al-alcorn-creator-of-pong-explains-how-early-home-computers-owe-their-color-to-this-one-cheap-sleazy-trick)[^1], that time that Jobs screwed him out of thousands of dollars from their Atari bonus. I've read through almost everything on [folklore.org](https://folklore.org) back in the day so these stories all ring familiar and true.
 
-What stood out on this read is the stuff about comradery, which *also existed for him at Hewlett Packard*. If anything he wasn't sure about starting Apple because he didn't want to lose that comradery of the engineer-driven HP culture.
+What stood out on this read is the stuff about camaraderie, which *also existed for him at Hewlett Packard*. If anything he wasn't sure about starting Apple because he didn't want to lose that comradery of the engineer-driven HP culture.
 
 > **Livingston:** How did they [Atari] know you?
 >

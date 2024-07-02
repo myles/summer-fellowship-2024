@@ -58,4 +58,4 @@ I will see if I can interview her as part of my research. Understand whether she
 has a theory of pedagogy. A theory of knowledge production.
 ***
 
-*Xavier's research reflections. [Previous reflection]({{<ref "wxs-reflection-002.md">}}).*
+*Xavier's research reflections. [Previous reflection]({{<ref "wxs-reflection-002.md">}}). [Next reflection]({{<ref "wxs-reflection-004.md">}})*

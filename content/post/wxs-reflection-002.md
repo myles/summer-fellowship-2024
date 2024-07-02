@@ -38,7 +38,7 @@ Until next week.
 
 ***
 
-*Xavier's research reflections. [Previous reflection]({{<ref "wxs-reflection-001.md">}}).*
+*Xavier's research reflections. [Previous reflection]({{<ref "wxs-reflection-001.md">}}). [Next reflection]({{<ref "wxs-reflection-003.md">}})*
 
 
 [^1]: there's certainly a pun here...

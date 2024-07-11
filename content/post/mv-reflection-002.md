@@ -6,7 +6,7 @@ authors = ["Max Veytsman"]
 
 As part of my research, I started reading Jessica Livingston's [Founders at Work](http://www.foundersatwork.com/) to get a feel for the overculture.
 
-I chose the word overculture deliberately, but It's interesting to think that this book came out in 2008, two yeats before The Social Network. Back then, he startup world was not the "overculture" it was an underdog, and in fact the foreword (written by Paul Graham of course) is largely an argument for how the big businesses could stand to learn from the startupy way of doing things. How times have changed.
+I chose the word overculture deliberately, but It's interesting to think that this book came out in 2008, two years before The Social Network. Back then, the startup world was not the "overculture" it was an underdog, and in fact the foreword (written by Paul Graham of course) is largely an argument for how the big businesses could stand to learn from the startupy way of doing things. How times have changed.
 
 The book itself consists of a series of interviews with founders about the early days, what they struggled with, how they got their ideas, what the early company was like.
 
@@ -38,7 +38,7 @@ I'm curious about what made Hewlett-Packard so great in Woz's eyes and why. He p
 
 I want to ask other than the practicalities of corporate structures that make people feel ownership, what aspects of workplace culture make people feel fulfilled? I ask this question holding the truth that culture stuff can be used as a distraction while the real material gains are taken away - you don't get to keep any equity but boy is the culture great! Holding that critical lens I think the next thing I should read should be about fulfilling workplace cultures.
 
-**Peer Review**: [https://github.com/1rglabs/summer-fellowship-2024/pull/5](https://github.com/1rglabs/summer-fellowship-2024/pull/5)
+**Peer Review**: [https://github.com/1rglabs/summer-fellowship-2024/pull/9](https://github.com/1rglabs/summer-fellowship-2024/pull/9)
 
 [^1]: I really appreciate that this is called a "sleazy trick"
 

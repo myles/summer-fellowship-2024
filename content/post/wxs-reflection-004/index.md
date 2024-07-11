@@ -31,4 +31,4 @@ I was happy with how the talk went —  It was validating to see how the topic (
 
 ***
 
-*Xavier's research reflections. [Previous reflection]({{<ref "wxs-reflection-003.md">}}).*
+*Xavier's research reflections. [Previous reflection]({{<ref "wxs-reflection-003.md">}}). [Next reflection]({{<ref "wxs-reflection-005.md">}})*
